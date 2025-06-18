@@ -14,6 +14,10 @@ Designed for everyday use with a clean and distraction-free interface.
 - Clean and responsive UI
 - Follows clean code practices
 
+## Preview
+
+![Calculator Preview](public/image.png)
+
 ## Tech Stack
 
 - React
