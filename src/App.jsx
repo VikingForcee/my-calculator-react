@@ -184,10 +184,6 @@ export default function App() {
             .
           </button>
         </div>
-
-        <div>
-          Basic Calculator working !
-        </div>
       </div>
     </div>
   );
