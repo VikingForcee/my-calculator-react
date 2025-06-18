@@ -24,6 +24,8 @@ Designed for everyday use with a clean and distraction-free interface.
 - Tailwind CSS
 - Vite
 
+Any recommendations and improvements are welcomed
+
 ## Getting Started
 
 To run the project locally:
